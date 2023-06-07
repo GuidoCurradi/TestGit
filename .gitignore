@@ -1,4 +1,2 @@
-/bin/**
-*.jar
-*.war
-*.class
+
+/bin/
